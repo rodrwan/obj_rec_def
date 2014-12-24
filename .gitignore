@@ -1,0 +1,3 @@
+*.pyc
+VOC2011*
+svm_data.dat
